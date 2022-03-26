@@ -22,8 +22,6 @@ def pregunta_01():
     214
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -50,8 +48,6 @@ def pregunta_02():
     ]
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -84,8 +80,6 @@ def pregunta_03():
     ]
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -125,8 +119,6 @@ def pregunta_04():
     ]
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -160,8 +152,6 @@ def pregunta_05():
     ]
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -201,8 +191,6 @@ def pregunta_06():
     ]
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -247,8 +235,6 @@ def pregunta_07():
     ]
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -289,8 +275,6 @@ def pregunta_08():
     ]
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -330,8 +314,6 @@ def pregunta_09():
     }
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -375,8 +357,6 @@ def pregunta_10():
 
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -407,8 +387,6 @@ def pregunta_11():
 
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
@@ -442,8 +420,6 @@ def pregunta_12():
     }
 
     """
-    import pandas as pd
-    pd.read_csv('data.csv', sep = '\t', header=None)
     x = open('data.csv', 'r').readlines()
     x = [i.replace('\n', '') for i in x]
     x = [i.split('\t') for i in x]
